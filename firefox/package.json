@@ -1,8 +1,12 @@
 {
-  "name": "vk-audio-control",
-  "title": "vk-audio-control",
-  "id": "jid1-pG1j8yW600sB0Q",
-  "description": "vk-audio-control",
+  "title": "WebGear",
+  "name": "webgear",
+  "version": "0.0.0",
+  "description": "At the moment the only ability provided is controlling of vk.com player by running python script.",
+  "main": "index.js",
   "author": "Grief",
-  "version": "0.9"
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "Copyright 2015 Grief"
 }
